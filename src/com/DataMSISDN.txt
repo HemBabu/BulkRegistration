@@ -1,0 +1,6 @@
++66,POSTPAID,Mark,1/2/2020,+66,Kumaripati Lalitpur Nepal 44700,abc123,
++65,PREPAID,Jeney,1/2/2020,+65,ktm Kathmandu NEpal 44700,bcd123,
++62,POSTPAID,Ram,1/2/2020,+62,Kumaripati Lalitpur Nepal 44701,1234,
++60,POSTPAID,Gopal,1/2/2020,+60,Kumaripati Lalitpur Nepal 44702,bcd125,
++615,POSTPAID,Jeena,1/2/2020,+615,Kumaripati Lalitpur Nepal 44703,bcd127,
++664,POSTPAID,Roniya,1/2/2020,+664,Kumaripati Lalitpur Nepal 44702,abc130,

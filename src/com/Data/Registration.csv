@@ -1,0 +1,16 @@
+MSISDN,SIM_TYPE,NAME,DATE_OF_BIRTH,GENDER,ADDRESS,ID_NUMBER
++66,POSTPAID,Mark,1/2/2020,M,Kumaripati Lalitpur Nepal 44700,abc123
++65,PREPAID,Jeney,1/2/2020,F,ktm Kathmandu NEpal 44700,bcd123
++63,LOAN,Hem Raj*,1/2/2023,M,Kumaripati Lalitpur Nepal 44702,abc124
++62,POSTPAID,Ram,1/2/2020,M,Kumaripati Lalitpur Nepal 44701,1234
++61,PREPAID,Hari,1/2/2022,M,Kumaripati Lalitpur Nepal 44702,abc125
++60,POSTPAID,Gopal,1/2/2020,M,Kumaripati Lalitpur Nepal 44702,bcd125
++600,POSTPAID,Messi@,1/2/2020,M,Kumaripati Lalitpur Nepal 44702,abc126
++651,FREE,Ram#esh,1/2/2020,M,Kumaripati Lalitpur Nepal 44702,bcd126
++616,POSTPAID,Janak,1/2/2015,M,Kumaripati Lalitpur Nepal 44702,dbfsjh
++615,POSTPAID,Jeena,1/2/2020,F,Kumaripati Lalitpur Nepal 44703,bcd127
++616,PREPAID,Kareena,1/2/2023,F,Kumaripati Lalitpur Nepal 44702,abc128
++625,LOAN,Maeli,1/2/2020,F,Kumaripati Lalitpur Nepal 44702,bcd128
++366,POSTPAID,ju@lie,1/2/2022,F,Kumaripati Lalitpur Nepal 44704,onlycharacter
++635,PREPAID,Jenip.her,1/2/2020,F,Kumaripati Lalitpur Nepal 44702,bcd129
++664,POSTPAID,Roniya,1/2/2020,F,Kumaripati Lalitpur Nepal 44702,abc130
